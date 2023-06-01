@@ -10,8 +10,9 @@
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anthony-As-2004&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-As-2004&layout=compact&theme=dracula"/>
-ranking_index = (byte_count ^ size_weight) * (repo_count ^ count_weight)
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-As-2004&size_weight=0.5&count_weight=0.5https://github.com/Anthony-As-2004/github-readme-stats&layout=compact&theme=dracula"/>
+ 
   <div>
   
   <div style="display: inline_block"><br>
