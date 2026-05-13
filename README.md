@@ -3,13 +3,13 @@
 
 **`Analista de Dados`**
 
-Me chamo Anthony, tenho 22 anos e sou estudante no último semestre de **Análise e Desenvolvimento de Sistemas**, focado em transformar dados complexos em decisões de negócios estratégicas. Sou apaixonado pela área de **Análise de Dados**, dedicando-me à criação de relatórios analíticos, dashboards interativos e inteligência de negócios.
+Olá! Me chamo Anthony, tenho 22 anos e sou graduando no último semestre de **Análise e Desenvolvimento de Sistemas**, focado em transformar dados complexos em decisões de negócios estratégicas. Sou apaixonado pela área de **Análise de Dados**, dedicando-me à criação de relatórios analíticos, dashboards interativos e inteligência de negócios.
 
 
 
 ---
 
-### 🤖 Tecnologias
+### 🤖 Tecnologias:
 
 <img 
     align="left" 
@@ -43,7 +43,7 @@ Me chamo Anthony, tenho 22 anos e sou estudante no último semestre de **Anális
     style="padding-right: 10px;" 
     src="https://files.svgcdn.io/logos/python.svg"
 />
-<
+
 <img 
     align="left" 
     alt="Git" 
