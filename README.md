@@ -54,5 +54,7 @@ Olá! Me chamo Anthony, tenho 22 anos e sou graduando no último semestre de **A
 />
 <br>
 <br>
-* **LinkedIn:** [www.linkedin.com/in/anthony-augusto-silva-a42617279]
+### 📫 Entre em contato:
+
+* **LinkedIn:** www.linkedin.com/in/anthony-augusto-silva-a42617279
 * **E-mail:** [anthonyaugustosilva.2004@gmail.com](mailto:anthonyaugustosilva.2004@gmail.com)
